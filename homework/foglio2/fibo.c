@@ -12,5 +12,7 @@ void main (){
         printf("%d --> %d\n", i, f2);
         f0=f1;
         f1=f2;
+
+        
     }
 }
